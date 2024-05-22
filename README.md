@@ -11,6 +11,9 @@ Desenvolvo projetos utilizando linguagem JavaScript
 *00001098287381sp@al.educacao.sp.gov.br* 📩
 
 
+! [https://tenor.com/pt-BR/view/kissing-emoji-flying-kiss-gif-5123508]
+
+
 
 ![][(link)](https://tenor.com/pt-BR/view/kissing-emoji-flying-kiss-gif-5123508)
 
