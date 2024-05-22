@@ -12,7 +12,7 @@ Desenvolvo projetos utilizando linguagem JavaScript
 
 
 
-![](link)
+![][(link)](https://tenor.com/pt-BR/view/kissing-emoji-flying-kiss-gif-5123508)
 
 
 
