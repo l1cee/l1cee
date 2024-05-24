@@ -11,11 +11,14 @@ Desenvolvo projetos utilizando linguagem JavaScript
 *00001098287381sp@al.educacao.sp.gov.br* 📩
 
 
-![](https://media1.tenor.com/m/e0V9lm6khSYAAAAC/sally-face.gif)
 
 
 
-![](https://tenor.com/pt-BR/view/kissing-emoji-flying-kiss-gif-5123508)
+
+  ![](https://media1.tenor.com/m/e0V9lm6khSYAAAAC/sally-face.gif)
+
+
+
 
 
 
