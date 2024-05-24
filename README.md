@@ -2,7 +2,7 @@
 
 Meu nome é Alice Oliveira
 
-Estou no curso Alura
+Estou no curso [Alura[(https://www.alura.com.br)
 
 Desenvolvo projetos utilizando linguagem JavaScript
 
